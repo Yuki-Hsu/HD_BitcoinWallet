@@ -1,0 +1,23 @@
+missing module named resource - imported by posix, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named posix - imported by os, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named 'org.python' - imported by pickle, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named _winreg - imported by platform, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named 'java.lang' - imported by platform, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named termios - imported by tty, getpass, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named grp - imported by shutil, tarfile, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named ce - imported by os, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named org - imported by copy, C:\Users\A1718\Desktop\coding2\新建文件夹\HD_bitcoinwallet.py
+missing module named pbkdf2 - imported by bitcoin.mnemonic
+missing module named 'Crypto.Hash' - imported by bitcoin.mnemonic
+missing module named Crypto - imported by bitcoin.mnemonic
+missing module named urllib2 - imported by bitcoin.bci
+missing module named psyco - imported by bitcoin.ripemd
